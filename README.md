@@ -19,7 +19,7 @@ to enter US vs the lower case iteration of US there would be no data returned as
 ![Image4](/static/images/Search_4.png)
 
 ## Utilization of multiple filters.
-![Image5](/static/images/Search_3 .png)
+![Image5](/static/images/Search_2 .png)
 As you can see the filter fields are compounding and can allow an end user to quickly get to their desired results.
 
 ## Summary
